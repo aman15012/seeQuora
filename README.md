@@ -9,7 +9,15 @@ This a javascript which when run on browser adds a toggle switch on the top of t
 ### Benefit
 It benefits those users who want to view only the popular content on Quora. They can now, easily see the quality of the answer as they were able to see before the update.																									 
 ## Steps to use         																																	 
-1. Open Quora in your browser window.																												 
+1. Open Quora in your browser window.																						
 2. Open the javascript console of the browser while remaining in the same tab. 
     (Possibly by: Right Click --> Inspect Element --> Go to console tab)
 3. Paste this javascript in the console.	
+
+## ScreenCaptures
+### Before
+![before](https://github.com/aman15012/seeQuora/blob/master/img/before.png)
+
+### After
+![after](https://github.com/aman15012/seeQuora/blob/master/img/after.png)
+
