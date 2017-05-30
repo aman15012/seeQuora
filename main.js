@@ -6,7 +6,7 @@ header_elements[0].innerHTML += "<iframe height=\"50px\" frameborder=\"0\" align
 
 //Including see-quora.js 
 var head_in_html = document.getElementsByTagName("head");
-head_in_html[0].innerHTML += "<script src=\"https://github.com/aman15012/seeQuora/blob/master/see-quora.js\">";
+head_in_html[0].innerHTML += "<script src=\"https://rawgit.com/aman15012/seeQuora/master/see-quora.js\">";
 
 //Including an event listner for scrolling
 var body_in_html = document.getElementsByTagName("body");
