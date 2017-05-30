@@ -1,6 +1,5 @@
 # seeQuora
-## Author
-Aman Agarwal (aman15012@iiitd.ac.in)																										 
+
 ## About
 Quora is a question-and-answer site where questions are asked, answered, edited and organized by its community of users.                  
 ### Context
