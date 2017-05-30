@@ -2,7 +2,7 @@
 
 //try
 var header_elements = document.getElementsByClassName("header_contents");
-header_elements[0].innerHTML += "<script src=\"https://www.w3schools.com/lib/w3.js\"></script><div w3-include-html=\"https://github.com/aman15012/seeQuora/blob/master/try.html\"></div><script> w3.includeHTML(); </script>";
+header_elements[0].innerHTML += "<script src=\"https://www.w3schools.com/lib/w3.js\"></script><div w3-include-html=\"https://github.com/aman15012/seeQuora/blob/master/switch.html\"></div><script> w3.includeHTML(); </script>";
 
 
 //Including the toggle switch html:
