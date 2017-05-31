@@ -41,6 +41,12 @@ header_elements[0].innerHTML += "<hr><label class=\"switch\">" +
 var body_in_html = document.getElementsByTagName("body");
 body_in_html[0].setAttribute("onscroll","scroll_response()");
 
+var but = document.getElementsByClassName("button_text");
+for(var i=0 ; i< but.length ; i++)
+{
+	console.log("here");
+	but[i].addEventListener('click', see);
+}
 // This is the main script 
 
 var state = 0; // state determines the state of the toggle switch
