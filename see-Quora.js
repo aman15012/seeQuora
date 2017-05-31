@@ -21,7 +21,7 @@
 
 var header_elements = document.getElementsByClassName("header_contents"); // header_contents is the class name of the HTML element where we add the switch 
 header_elements[0].innerHTML += "<hr><label class=\"switch\">" +
-	"<input type=\"checkbox\" onchange=\"parent.handleClick(this)\">" +
+	"<input type=\"checkbox\" onchange=\"handleClick(this)\">" +
 	"<div class=\"slider round\"></div>" +
 	"</label>" +
 	"<style>" +
