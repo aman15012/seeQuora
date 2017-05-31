@@ -44,7 +44,6 @@ body_in_html[0].setAttribute("onscroll","scroll_response()");
 var but = document.getElementsByClassName("button_text");
 for(var i=0 ; i< but.length ; i++)
 {
-	console.log("here");
 	but[i].addEventListener('click', see);
 }
 // This is the main script 

@@ -20,7 +20,6 @@ header_elements[0].innerHTML += "<hr><label class=\"switch\">" +
 
 var c = document.getElementById("clik");
 c.addEventListener('change', function() {
-	  console.log("here");
 	  if(this.checked)
 	  {
 	  	state = 1;
@@ -42,7 +41,6 @@ c.addEventListener('change', function() {
         
 });
 window.onscroll = function() {
-	 console.log("here2");
 
 	var pos = document.body.scrollTop / (document.body.scrollHeight - document.body.clientHeight);
 	if(state)
