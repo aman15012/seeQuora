@@ -5,7 +5,7 @@ Quora is a question-and-answer site where questions are asked, answered, edited 
 ### Context
 Recently Quora.com introduced a change in its top stories feed page interface: It stopped showing the number of upvotes associated with each answer.																																 
 ### Use 
-This a javascript which when run on browser adds a toggle switch on the top of the page. This toggle switch can be turned on to view the number of upvotes on each answer. 																										 
+This a javascript which when run on browser adds a toggle switch on the top-left of the page. This toggle switch can be turned on to view the number of upvotes on each answer. 																										 
 ### Benefit
 It benefits those users who want to view only the popular content on Quora. They can now, easily see the quality of the answer as they were able to see before the update.																									 
 ## Steps to use         																																	 
