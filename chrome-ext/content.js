@@ -1,8 +1,8 @@
 //I had to hardcode all the things instead of calling functions.
 
 var state = 0; 
-var header_elements = document.getElementsByClassName("header_contents"); 
-header_elements[0].innerHTML += "<hr><label class=\"switch\">" +
+var header_elements = document.getElementsByClassName("header_logo"); 
+header_elements[0].innerHTML += "<br><hr><label class=\"switch\">" +
 	"<input type=\"checkbox\" id=\"clik\">" +
 	"<div class=\"slider round\"></div>" +
 	"</label>" +
